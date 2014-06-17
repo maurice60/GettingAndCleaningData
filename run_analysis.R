@@ -23,4 +23,6 @@ datMerge <- merge(actLabel, datMerge)
 datMelt <- melt(datMerge, id.vars = c("activityCode", "activity", "subject"))
 datOutput <- dcast(datMelt, activityCode+activity+subject ~ variable, mean)
 
-rm(datTest, datTrain, datHeadings, subTest, subTrain, actTest, actTrain, actLabel, datMelt, datMerge)
+write.table(datOutput, file="summary.txt")
+
+rm(datTest, datTrain, datHeadings, subTest, subTrain, actTest, actTrain, actLabel, datMelt, datMerge, datOutput)
