@@ -1,136 +1,136 @@
 ##Data Dictionary - Biometric measurements
 activityCode  
-    Activity Code 1-6  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Activity Code 1-6  
 activity   
-    Activity  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Activity description  
 subject  
-    Subject number 1-30  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Subject number 1-30  
 tBodyAcc.mean...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyAcc.mean...Y  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyAcc.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyAcc.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyAcc.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyAcc.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tGravityAcc.mean...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tGravityAcc.mean...Y   
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tGravityAcc.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tGravityAcc.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tGravityAcc.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tGravityAcc.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyAccJerk.mean...Y  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyAccJerk.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyAccJerk.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyAccJerk.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyAccJerk.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyro.mean...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyro.mean...Y  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyro.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyro.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyro.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyro.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyroJerk.mean...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyroJerk.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyroJerk.std...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyroJerk.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyroJerk.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyroJerk.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyAccMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tGravityAccMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tGravityAccMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyAccJerkMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyAccJerkMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyroMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyroMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 tBodyGyroJerkMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 tBodyGyroJerkMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyAcc.mean...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyAcc.mean...Y  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyAcc.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyAcc.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyAcc.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyAcc.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyAccJerk.mean...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyAccJerk.mean...Y  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyAccJerk.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyAccJerk.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyAccJerk.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyAccJerk.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyGyro.mean...X  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyGyro.mean...Y  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyGyro.mean...Z  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyGyro.std...X  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyGyro.std...Y  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyGyro.std...Z  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyAccMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyAccMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyBodyAccJerkMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyBodyAccJerkMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyBodyGyroMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyBodyGyroMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 fBodyBodyGyroJerkMag.mean..  
-    Measure mean  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure mean  
 fBodyBodyGyroJerkMag.std..  
-    Measure standard deviation  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Measure standard deviation  
 
