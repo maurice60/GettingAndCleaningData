@@ -1,8 +1,8 @@
 ##Data Dictionary - Biometric measurements
 ---
 
-activityCode
-    Activity Code 1-6
+activityCode  
+    Activity Code 1-6  
 activity
     Activity
 subject
